@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-der-bew/der-bew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-the distance between what you want and what you get is what you do
+The distance between what you want and what you get is what you do
 --->
