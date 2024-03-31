@@ -6,8 +6,8 @@
 <h4 align="center">- Linus Torvalds -</h4>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Languages
+## 🛠️ Skills
+#### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -19,15 +19,21 @@
 
 #### Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
+![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 
-#### Data Analytics 
+#### Data Analytics and ML
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-![Django](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel)
+![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=PySpark)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Scikit-Learn](https://img.shields.io/badge/-sklearn-000?&logo=sklearn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 #### Database
 
@@ -36,16 +42,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Technologies
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=PySpark)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+#### Technologies
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Scikit-Learn](https://img.shields.io/badge/-scikit-learn-000?&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
