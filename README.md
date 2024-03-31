@@ -13,50 +13,50 @@
 
 #### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) &nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) &nbsp;
+![C](https://img.shields.io/badge/-C-000?&logo=C) &nbsp;
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) &nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) &nbsp;
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) &nbsp;
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust) &nbsp;
 
 #### Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a> &nbsp;
 <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
 
 #### Data Analytics and ML
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel)
-![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=PySpark)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Scikit-Learn](https://img.shields.io/badge/-sklearn-000?&logo=sklearn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib) &nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn) &nbsp;
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white) &nbsp;
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel) &nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=PySpark) &nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) &nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-sklearn-000?&logo=sklearn) &nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) &nbsp;
 
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
 #### Technologies
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) &nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) &nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) &nbsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git) &nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) &nbsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) &nbsp;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
