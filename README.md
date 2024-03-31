@@ -6,7 +6,11 @@
 <h4 align="center">- Linus Torvalds -</h4>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Skills
+
+<br>
+
 #### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
