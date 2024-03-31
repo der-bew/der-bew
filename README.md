@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/58506091?v=4" width="100" border-radius = 50%/>
 </div>
@@ -9,7 +10,6 @@
 <a href="https://github.com/der-bew"><img alt="Github" title="der-bew Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Derbew+Felasman;I'm+Data+Analyst+&+Software+Engineering)](https://git.io/typing-svg)
 
